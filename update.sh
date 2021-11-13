@@ -1,3 +1,4 @@
-git remote add origin https://github.com/MuhammadRestu999/Pop-Owi.git
+git add .
+git commit -m "Update"
 git branch -M main
 git push -u origin main
